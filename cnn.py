@@ -66,7 +66,7 @@ def main():
         print(d[99])
     """
 
-    # Show a image apparently
+    # Show a image
     """
     with tf.Session() as sess:
         a,b = iterator.get_next()
